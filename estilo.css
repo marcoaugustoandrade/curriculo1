@@ -18,6 +18,21 @@
 
 .cabecalho{
     background-color: #98336C;
-    background: linear-gradient(90deg, #486288 0%, #98336C 100%);
-    
+    background: linear-gradient(90deg, #486288c8 0%, #98336ce9 100%), url("fundo.jpg");
+    text-align: center;
+}
+
+.titulo{
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+.foto{
+    margin: 20px;
+    margin-top: 100px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+}
+.redes > a > img{
+  padding: 20px;
 }
